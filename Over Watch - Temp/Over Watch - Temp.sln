@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{7B552B86-4383-37E2-4BAD-8A6F652BC164}") = "Over Watch - Temp", "Assembly-CSharp-firstpass.csproj", "{2117BA3D-0196-E7AE-569F-00AF2AC4A6EE}"
+EndProject
+Project("{7B552B86-4383-37E2-4BAD-8A6F652BC164}") = "Over Watch - Temp", "Assembly-CSharp.csproj", "{690D2BF7-2317-94F8-B2BC-C95F1BF96DF9}"
+EndProject
+Project("{7B552B86-4383-37E2-4BAD-8A6F652BC164}") = "Over Watch - Temp", "Assembly-CSharp-Editor.csproj", "{C653DFB9-86E7-CCFA-38D5-AE2680625FB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2117BA3D-0196-E7AE-569F-00AF2AC4A6EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2117BA3D-0196-E7AE-569F-00AF2AC4A6EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2117BA3D-0196-E7AE-569F-00AF2AC4A6EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2117BA3D-0196-E7AE-569F-00AF2AC4A6EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{690D2BF7-2317-94F8-B2BC-C95F1BF96DF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{690D2BF7-2317-94F8-B2BC-C95F1BF96DF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{690D2BF7-2317-94F8-B2BC-C95F1BF96DF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{690D2BF7-2317-94F8-B2BC-C95F1BF96DF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C653DFB9-86E7-CCFA-38D5-AE2680625FB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C653DFB9-86E7-CCFA-38D5-AE2680625FB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C653DFB9-86E7-CCFA-38D5-AE2680625FB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C653DFB9-86E7-CCFA-38D5-AE2680625FB4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
