@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{85EA4EFA-31DD-1A96-DD64-74A05F09C81C}") = "Over Watch", "Assembly-CSharp-firstpass.csproj", "{365E86B7-FD43-284D-1368-050B686A40F6}"
+EndProject
+Project("{85EA4EFA-31DD-1A96-DD64-74A05F09C81C}") = "Over Watch", "Assembly-CSharp.csproj", "{4E8FDD7A-A852-ECE8-FACC-F00FEBB1BBA4}"
+EndProject
+Project("{85EA4EFA-31DD-1A96-DD64-74A05F09C81C}") = "Over Watch", "Assembly-CSharp-Editor.csproj", "{463B7B20-4FC4-3F65-6557-BCB4A7A7B02D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{365E86B7-FD43-284D-1368-050B686A40F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{365E86B7-FD43-284D-1368-050B686A40F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{365E86B7-FD43-284D-1368-050B686A40F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{365E86B7-FD43-284D-1368-050B686A40F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E8FDD7A-A852-ECE8-FACC-F00FEBB1BBA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E8FDD7A-A852-ECE8-FACC-F00FEBB1BBA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E8FDD7A-A852-ECE8-FACC-F00FEBB1BBA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E8FDD7A-A852-ECE8-FACC-F00FEBB1BBA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{463B7B20-4FC4-3F65-6557-BCB4A7A7B02D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{463B7B20-4FC4-3F65-6557-BCB4A7A7B02D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{463B7B20-4FC4-3F65-6557-BCB4A7A7B02D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{463B7B20-4FC4-3F65-6557-BCB4A7A7B02D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
